@@ -1,13 +1,14 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
+  name        : "Charlie (Zhisheng) Qi"
+  uri         : "http://charlieqi02.github.io"
+  email       : "charlieqi02@gmail.com"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
+  avatar      : "avt2.jpg"
   twitter     : "name"
   google_plus : "Name"
+  googlescholar: True
 
 Name2 Name2:
   name        : "Name2 Name2"
