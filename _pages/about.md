@@ -17,4 +17,4 @@ My research interests primarily lie in the domains of graph neural networks and 
 
 ## News
 **Sep 2, 2024**
-My paper [From Semantics to Hierarchy: A Hybrid Euclidean-Tangent-Hyperbolic Space Model for Temporal Knowledge Graph Reasoning](http://academicpages.github.io/files/paper1.pdf) is now available on ArXiv (submitted to AAAI-25).
+My paper [From Semantics to Hierarchy: A Hybrid Euclidean-Tangent-Hyperbolic Space Model for Temporal Knowledge Graph Reasoning](http://academicpages.github.io/files/paper1.pdf) is now available on ArXiv (In submission to AAAI-25).
