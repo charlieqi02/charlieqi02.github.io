@@ -16,5 +16,5 @@ I am currently in the final year of my undergraduate studies at Hainan Universit
 My research interests primarily lie in the domains of graph neural networks and machine learning, with a particular emphasis on reasoning over dynamic systems, such as temporal knowledge graphs, and graph representation learning. Additionally, I am open to extending my research interests to related fields, including common sense reasoning and causal inference.
 
 ## News
-**Sep 2, 2024**
-My paper [From Semantics to Hierarchy: A Hybrid Euclidean-Tangent-Hyperbolic Space Model for Temporal Knowledge Graph Reasoning](http://academicpages.github.io/files/paper1.pdf) is now available on ArXiv (In submission to AAAI-25).
+**Aug 15, 2024**
+My paper [From Semantics to Hierarchy: A Hybrid Euclidean-Tangent-Hyperbolic Space Model for Temporal Knowledge Graph Reasoning](/files/paper.html) is in submission to AAAI-25.
