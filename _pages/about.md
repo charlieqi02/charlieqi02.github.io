@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently in the final year of my undergraduate studies at Hainan University, where I hold the position of student researcher within my college's laboratory.
+My name is Zhisheng Qi (齐志圣). I am currently in the final year of my undergraduate studies at Hainan University, where I hold the position of student researcher within my college's laboratory.
 
 <font color="red">I am actively seeking a Ph.D. position commencing in the Fall of 2025!</font>
 
