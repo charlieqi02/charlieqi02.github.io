@@ -13,7 +13,7 @@ My name is Zhisheng Qi (齐志圣). I am currently in the final year of my under
 
 
 ## Research Interests
-My research interests primarily lie in the domains of graph neural networks and machine learning, with a particular emphasis on reasoning over dynamic systems, such as temporal knowledge graphs, and graph representation learning. Additionally, I am open to extending my research interests to related fields, including common sense reasoning and causal inference.
+My research interests primarily lie in the domains of graph neural networks and machine learning, with a particular emphasis on reasoning over dynamic systems, such as temporal knowledge graphs, and graph representation learning. Additionally, I am open to extending my research interests to related fields.
 
 ## News
 **Sep 04, 2024**
