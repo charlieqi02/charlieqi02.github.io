@@ -9,11 +9,11 @@ redirect_from:
 
 My name is Zhisheng Qi (齐志圣). I am currently in the final year of my undergraduate studies at Hainan University, where I hold the position of student researcher within my college's laboratory.
 
-<font color="red">I am actively seeking a Ph.D. position commencing in the Fall of 2025!</font>
+<!-- <font color="red">I am actively seeking a Ph.D. position commencing in the Fall of 2025!</font>
 
 
 ## Research Interests
-My research interests primarily lie in the domains of graph neural networks and machine learning, with a particular emphasis on reasoning over dynamic systems, such as temporal knowledge graphs, and graph representation learning. Additionally, I am open to extending my research interests to related fields.
+My research interests primarily lie in the domains of graph neural networks and machine learning, with a particular emphasis on reasoning over dynamic systems, such as temporal knowledge graphs, and graph representation learning. Additionally, I am open to extending my research interests to related fields. -->
 
 ## News
 **Sep 04, 2024**
