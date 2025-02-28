@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhisheng Qi (齐志圣). I am currently in the final year of my undergraduate studies at Hainan University, where I hold the position of student researcher within my college's laboratory.
-
-<font color="red">I am actively seeking a Ph.D. position commencing in the Fall of 2025!</font>
+My name is Zhisheng Qi (齐志圣). I am currently in the final year of my undergraduate studies at Hainan University. <font color="red">In Fall 2025, I will be joining the Department of Computer Science at University of Oregon as a Ph.D. student.</font>
 
 
 ## Research Interests
-My research interests primarily lie in the domains of graph neural networks and machine learning, with a particular emphasis on reasoning over dynamic systems, such as temporal knowledge graphs, and graph representation learning. Additionally, I am open to extending my research interests to related fields.
+I am interested in exploring large language model (LLM) agents, with a particular focus on how multiple agents interact with one another. My research aims to understand the dynamics of these interactions and investigate their applications in social contexts, including communication, collaboration, and decision-making processes.
 
 ## News
 **Sep 04, 2024**
