@@ -11,7 +11,7 @@ My name is Zhisheng Qi (齐志圣). I am currently in the final year of my under
 
 
 ## Research Interests
-I am interested in exploring large language model (LLM) agents, with a particular focus on how multiple agents interact with one another. My research aims to understand the dynamics of these interactions and investigate their applications in social contexts, including communication, collaboration, and decision-making processes.
+My research interests focus on graph-based modeling, social network analysis, and graph representation techniques, particularly in understanding the structure and dynamics of complex networks. I am also interested in exploring related topics in data-driven applications and networked information systems.
 
 ## News
 **Sep 04, 2024**
