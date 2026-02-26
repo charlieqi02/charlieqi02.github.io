@@ -11,8 +11,9 @@ My name is Zhisheng Qi. I am a first-year Ph.D. student in Computer Science at t
 
 
 # Research Interests
- * Secure and agentic retrieval-augmented generation (RAG)
- * Social network analysis
+ * Agentic retrieval-augmented generation (RAG) Reasoning
+ * Agentic RAG safety (knowledge poisoning) and privacy (knowledge extraction)
+ * Social network simulation and analysis
  * Structure learning
 
 
