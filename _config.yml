@@ -21,7 +21,7 @@ repository               : "charlieqi02/charlieqi02.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avt2.jpg"
+  avatar           : "Portrait-croped.png"
   name             : "Zhisheng Qi"
   pronouns         : "he/him"  
   bio              : "Ph.D. student"
