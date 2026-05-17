@@ -19,6 +19,8 @@ My name is Zhisheng Qi. I am a first-year Ph.D. student in Computer Science at t
 
 # News
 ## 2026
+ * **[05]** 🎉 Paper [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.09319) accepted at KDD'26 B&D Track (Oral)!
+ * **[05]** 🎉 Paper [RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/pdf/2502.11371) accepted at KDD'26 B&D Track!
  * **[02]** 🏆 Received NSF Student Travel Award to attend WSDM'26!
  * **[02]** 📚 Paper [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.09319) is now available!
  * **[02]** 📚 Paper [RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/pdf/2502.11371) is now available!
