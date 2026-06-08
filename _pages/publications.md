@@ -11,7 +11,8 @@ Most up-to-date publications are [here](https://scholar.google.com/citations?use
 ### Conference/Journal Papers
  * **Zhisheng Qi**, Utkarsh Sahu, Li Ma, Haoyu Han, Ryan A. Rossi, Franck Dernoncourt, Mahantesh M Halappanavar, Nesreen K. Ahmed, Yushun Dong, Yue Zhao, Yu Zhang, Yu Wang \\
    **Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation** \\
-   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026, Benchmark & Datasets Track (**Oral**) [\[Paper\]](https://arxiv.org/pdf/2602.09319) [\[Code\]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark)
+   In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026, Benchmark & Datasets Track [\[Paper\]](https://arxiv.org/pdf/2602.09319) [\[Code\]](https://github.com/charlieqi02/RAG-Knowledge-Extraction-Attack-and-Defense-Benchmark) \\
+   <strong><span style="color:#ff3b3b;">Selected for Oral Presentation; Acceptance Rate: 4.5%</span></strong>
  * Haoyu Han, Li Ma, Yu Wang, Harry Shomer, Kai Guo, Yongjia Lei, **Zhisheng Qi**, Zhigang Hua, Bo Long, Hui Liu, Charu C. Aggarwal, Jiliang Tang \\
    **RAG vs. GraphRAG: A Systematic Evaluation and Key Insights** \\
    In Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2026, Benchmark & Datasets Track [\[Paper\]](https://arxiv.org/pdf/2502.11371)
