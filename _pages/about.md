@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhisheng Qi. I am a first-year Ph.D. student in Computer Science at the University of Oregon, working with Prof. [Yu Wang](https://yuwang0103.github.io/) at [KIND Lab](https://kindlab-fly.github.io/).  
+My name is Zhisheng Qi. I am a Ph.D. student in Computer Science at the [University of Georgia School of Computing](https://www.computing.uga.edu/), working with Prof. [Yu Wang](https://yuwang0103.github.io/) at [KIND Lab](https://kindlab-fly.github.io/).
 
 
 # Research Interests
@@ -19,6 +19,7 @@ My name is Zhisheng Qi. I am a first-year Ph.D. student in Computer Science at t
 
 # News
 ## 2026
+ * **[08]** <strong><span style="color:#ff3b3b;"> 🎓 We moved to UGA! KIND Lab is now at the University of Georgia in Athens, Georgia. 🐶 Go Dawgs! </span></strong>
  * **[05]** 🎉 Paper [Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation](https://arxiv.org/pdf/2602.09319) accepted at KDD'26 B&D Track! <br><strong><span style="color:#ff3b3b;">Selected for Oral Presentation; Acceptance Rate: 4.5%</span></strong>
  * **[05]** 🎉 Paper [RAG vs. GraphRAG: A Systematic Evaluation and Key Insights](https://arxiv.org/pdf/2502.11371) accepted at KDD'26 B&D Track!
  * **[02]** 🏆 Received NSF Student Travel Award to attend WSDM'26!
